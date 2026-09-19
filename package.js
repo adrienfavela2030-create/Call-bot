@@ -1,7 +1,7 @@
 {
   "name": "vvll-bot",
   "version": "1.0.0",
-  "description": "VVLL | Vx Vnilla Landon League Discord Bot",
+  "description": "VVLL Discord Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
